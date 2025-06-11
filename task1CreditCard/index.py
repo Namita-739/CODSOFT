@@ -4,19 +4,19 @@ import pandas as pd
 df = pd.read_csv("creditcard.csv")
 
 # Show first 5 rows
-print("📌 First 5 rows:")
+print("\n FIRST 5 ROWS:")
 print(df.head())
 
 # Show basic info about columns and missing values
-print("\n📌 Dataset Info:")
+print("\n DATASET INFO:")
 print(df.info())
 
 # Show basic statistics
-print("\n📌 Statistical Summary:")
+print("\n STATISTICAL SUMMARY:")
 print(df.describe())
 
 # Show number of fraud vs non-fraud cases
-print("\n📌 Class Distribution:")
+print("\n CLASS DISTRIBUTION:")
 print(df['Class'].value_counts())
 
 from sklearn.model_selection import train_test_split
