@@ -1,16 +1,16 @@
-# CODSOFT Internship Tasks 🚀
+# CODSOFT Internship Tasks 
 
 This repository contains all tasks completed during my **CodSoft Tech Internship**.
 
 ---
 
-## 🧠 Task 1: Credit Card Fraud Detection
+##  Task 1: Credit Card Fraud Detection
 
 This project detects fraudulent credit card transactions using machine learning.
 
 ---
 
-### 📂 Dataset Info
+###  Dataset Info
 
 The dataset `creditcard.csv` is **not uploaded to GitHub** because it is larger than 100MB.  
 You must **manually download it** from Kaggle using this link:
@@ -21,7 +21,7 @@ Place the downloaded file here in your project:
 
 ---
 
-### ▶️ How to Run the Code
+###  How to Run the Code
 
 1. Open your terminal
 2. Install required libraries:
