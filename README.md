@@ -6,7 +6,7 @@ This repository contains all tasks completed during my **CodSoft Tech Internship
 
 ##  Task 1: Credit Card Fraud Detection
 
-This project detects fraudulent credit card transactions using machine learning.
+This project detects fraudulent credit card transactions using machine learning. Used Logistic Regression.
 
 ---
 
